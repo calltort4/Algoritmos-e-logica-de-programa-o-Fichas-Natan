@@ -1,4 +1,4 @@
-# Algoritmos-e-logica-de-programa-Fichas-Natan
+# Algoritmos-e-logica-de-programação-Fichas-Natan
 Repositório que contem as atividades de Algoritmos e logica de programação - UEG 1° Semestre
 Fichas atuais:
 - Introdução à logica
